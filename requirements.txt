@@ -1,0 +1,8 @@
+pandas
+streamlit
+requests
+smtplib
+sib-api-v3-sdk
+matplotlib
+python-dotenv
+dotenv
